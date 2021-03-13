@@ -1,0 +1,19 @@
+{
+  "name": "clean-udemy",
+  "version": "1.0.0",
+  "description": "NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kilikdudu/clean-udemy.git"
+  },
+  "author": "Carlos Eduardo Santos Alves Domingos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kilikdudu/clean-udemy/issues"
+  },
+  "homepage": "https://github.com/kilikdudu/clean-udemy#readme"
+}

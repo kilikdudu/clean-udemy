@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kilikdudu/clean-udemy/issues"
   },
-  "homepage": "https://github.com/kilikdudu/clean-udemy#readme"
+  "homepage": "https://github.com/kilikdudu/clean-udemy#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.2"
+  }
 }
